@@ -21,13 +21,18 @@ video:fullscreen{max-width:100% !important;}
 .player1.fullscreen1-active video{max-width:100% !important;}
 html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 #body{background-color:rgb(255,255,255);}
-.pos{position:relative;margin-top:348px;}
+.pos{position:relative;margin-top:183px;}
 .vis{display:block;vertical-align:top;}
 .section{pointer-events:none;min-width:960px;width:960px;margin-left:auto;margin-right:auto;}
-.vis-2{display:inline-block;vertical-align:top;overflow:hidden;}
-.pos-2{position:relative;margin-left:180px;margin-top:0;}
-.size{min-width:600px;width:600px;min-height:412px;height:412px;}
+.vis-2{display:inline-block;vertical-align:top;}
+.pos-2{position:relative;margin-left:380px;margin-top:0;}
+.size{min-width:200px;width:200px;min-height:150px;height:150px;}
 .cont{pointer-events:auto;}
+.img{position:absolute;left:0;width:200px;height:134px;top:8px;border:0;}
+.img-2{left:0;width:200px;height:134px;top:8px;display:inline-block;}
+.vis-3{display:inline-block;vertical-align:top;overflow:hidden;}
+.pos-3{position:relative;margin-left:180px;margin-top:15px;}
+.size-2{min-width:600px;width:600px;min-height:412px;height:412px;}
 .para{padding-top:0;text-indent:0;padding-right:0;text-align:center;}
 .font{font-family:"Arial Unicode MS", sans-serif;font-size:96px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgba(240,75,12,0.7);background-color:initial;line-height:90px;letter-spacing:normal;text-shadow:none;}
 .font-2{font-family:"Arial Unicode MS", sans-serif;font-size:48px;font-weight:400;font-style:normal;text-decoration:none;text-transform:none;color:rgba(240,75,12,0.7);background-color:initial;line-height:45px;letter-spacing:normal;text-shadow:none;}
